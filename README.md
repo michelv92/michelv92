@@ -18,10 +18,6 @@ Antes de atuar diretamente com desenvolvimento, acumulei mais de 7 anos de exper
 - 🐍 Conhecimentos em Python e Apache Airflow para automação e integração de dados
 - 🌱 Atualmente ampliando meus conhecimentos em Go, arquitetura e testes automatizados
 - 📍 São Paulo, Brasil
-Tecnologias e ferramentas
-Backend
-
-Frontend
 
 Dados e infraestrutura
 
